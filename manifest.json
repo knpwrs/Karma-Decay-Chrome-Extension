@@ -1,0 +1,7 @@
+{
+	"background_page": "background.html",
+	"name": "Karma Decay",
+	"description": "Karma Decay Extension for Google Chrome™. Right click on an image and search for it on reddit using Karma Decay.",
+	"permissions": ["contextMenus", "tabs", "http://*/*", "https://*/*"],
+	"version": "0.1.0"
+}
