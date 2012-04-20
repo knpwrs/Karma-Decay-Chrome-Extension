@@ -9,5 +9,5 @@
 		"48": "img/icon-48.png"
 	},
 	"permissions": ["contextMenus", "tabs", "notifications", "http://*/*", "https://*/*"],
-	"version": "0.1.0"
+	"version": "0.1.1"
 }
